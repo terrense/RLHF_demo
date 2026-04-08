@@ -16,10 +16,8 @@ This repository is intended to make the **training-time data flow** of PPO-based
 
 ---
 
-<!-- 固定宽度300px，两张图片并排/上下都行 -->
-<img src="111.jpg" alt="图1" width="300">
-<img src="222.png" alt="图2" width="300">
-
+<img src="1.jpg" alt="图1" width="100%" style="display:block;">
+<img src="2.png" alt="图2" width="100%" style="display:block;">
 ## Background: LLM Post-Training
 
 Modern large language models are usually developed in multiple stages:
