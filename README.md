@@ -17,8 +17,8 @@ This repository is intended to make the **training-time data flow** of PPO-based
 ---
 
 <!-- 固定宽度300px，两张图片并排/上下都行 -->
-<img src="111.png" alt="图1" width="300">
-<img src="222.jpg" alt="图2" width="300">
+<img src="111.jpg" alt="图1" width="300">
+<img src="222.png" alt="图2" width="300">
 
 ## Background: LLM Post-Training
 
