@@ -1,4 +1,4 @@
-# RLHF PPO Toy Walkthrough
+# RLHF PPO Theory Walkthrough
 
 A single-file, runnable educational implementation of **LLM post-training with RLHF-style PPO**.
 
@@ -15,6 +15,10 @@ This repository is intended to make the **training-time data flow** of PPO-based
 * the separation between training-time components and deployment-time inference
 
 ---
+
+<!-- 固定宽度300px，两张图片并排/上下都行 -->
+<img src="111.png" alt="图1" width="300">
+<img src="222.jpg" alt="图2" width="300">
 
 ## Background: LLM Post-Training
 
